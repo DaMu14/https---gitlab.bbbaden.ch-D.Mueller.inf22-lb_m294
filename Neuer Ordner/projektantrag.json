@@ -1,0 +1,28 @@
+{
+    "Trainingsplaner": [
+        {
+            "name": "4vs1",
+            "zeit": 15,
+            "material": "Ball, 5 Spieler",
+            "beschreibung": "Der Spieler in der Mitte versucht den Ball zu bekommen"
+        },
+        {
+            "name": "Abschluss",
+            "zeit": 20,
+            "material": "Ball, kleine Hütchen",
+            "beschreibung": "man schiesst von einem bestimmten Punkt auf das Tor"
+        },
+        {
+            "name": "Doppelpass",
+            "zeit": 30,
+            "material": "Ball, 6 Spieler",
+            "beschreibung": "Der Spieler mit dem Ball spielt den Ball einem Mitspieler, dieser lässt ihn abklatschen und spielt ihn weiter"
+        },
+        {
+            "name": "1vs1",
+            "zeit": 15,
+            "material": "Ball, Spieler",
+            "beschreibung": "Ein Spieler versucht am anderen vorbeizudribbeln."
+        }
+    ]
+}
